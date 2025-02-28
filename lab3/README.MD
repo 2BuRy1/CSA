@@ -40,3 +40,12 @@ source ~/.bash_profile  # для bash
 ```
 
 После этого терминал можно перезапустить, и `wrench` будет работать из любого места.
+<br>
+
+Все инструкции проделываем со всеми файлами в архиве, то есть в команде
+```
+mv ~/Downloads/wrench-macOS-ARM64/wrench /usr/local/bin/
+chmod +x /usr/local/bin/wrench
+```
+
+меняем название бинарника на нужное (вместо wrench - wrench-fmt, например)

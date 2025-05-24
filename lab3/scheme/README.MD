@@ -3,7 +3,7 @@
 
 Сразу стоит сказать, что данная схема <strong>НЕ КОНВЕЕРНАЯ</strong> - имейте это в виду
 
- [Схемочка](https://github.com/2BuRy1/CSA/blob/main/lab3/scheme/risc-iv.png)
+ ![Схемочка](https://github.com/2BuRy1/CSA/blob/main/lab3/scheme/risc-iv.png)
 
 
 
